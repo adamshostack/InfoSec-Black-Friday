@@ -53,6 +53,11 @@ FREE mini assessment of source code, AWS and web assets with code: BLACKFRIDAY22
 Deal ends: 2nd December
 
 ## Courses & Training
+Adam Shostack's Threat Modeling Courses \
+https://courses.shostack.org or https://shostack.org/training/open
+10% off any upcoming course - including open instructor led courses or self-pace CBT.
+BLKFRI10 Ends Nov 25, CYBRMON10 ends Nov 28.
+
 Offensive Security - Penetration Testing Training \
 https://www.offensive-security.com/learn-one/
 20% off Learn One \
